@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
+title: Measurable Creative Artificial Intelligence
+description: A group assembled to explore the possibilities, methods, and importance of measuring creativity.
