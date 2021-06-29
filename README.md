@@ -6,21 +6,32 @@
 <em>sculpture television buddha (after Something Pacific) by Robert Twomey</em>
 </p>
 
-## Bridging the Gap between Subjective and Computational Measurements of Machine Creativity for [CVPR 2021](http://cvpr2021.thecvf.com/)
-### June 20, 2021, 11:00am – 2:30pm EDT 
+# Measurable Creative Artificial Intelligence
 
 [Upcoming Workshops](#upcoming-workshop) | [Past Workshops](#past-workshops) | [Organizers](#organizers)
 
 
 # Upcoming Workshops
 
+## [SIGGRAPH](http://mcreativeai.org/SIGGRAPH) - Measurable Creative Artificial Intelligence
+
+#### August 2021
+
 
 
 # Past Workshops
 
-### [__CVPR__](cmmc-cvpr.com)
+## [CVPR](http://cmmc-cvpr21.com/) - Bridging the Gap between Subjective and Computational Measurements of Machine Creativity
 
+#### June 20, 2021 at the Conference on Computer Vision and Pattern Recognition
 
+While the methods for producing machine creativity have significantly improved, the discussion on a scientific consensus on measuring the creative abilities of machines has only begun. As Artificial Intelligence becomes capable of solving more abstract and advanced problems (e.g., image synthesis, cross-modal translations), how do we measure the creative performance of a machine? In the world of visual art, subjective evaluations of creativity have been discussed at length. In the CVPR community, by comparison, evaluating a creative method has not been as systematized. Our goal in this workshop is to discuss current methods for measuring creativity both from experts in creative artificial intelligence as well as artists. We do not wish to narrow the gap between how humans evaluate creativity and how machines do, instead we wish to understand the differences and create links between the two such that our machine creativity methods improve.
+
+## [ISEA](https://mcreativeai.github.io/) - Collaboratively Designing Metrics to Evaluate Creative Machines
+
+#### October 18, 2020 at the International Symposium on Electronic Art
+
+How do we make a creative machine? This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. For ISEA, participants will collectively find a definition of creativity specific to machines, addressing follow up questions: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants develop sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, we anticipate discovering ways to describe and interpret dimensions of algorithmic creativity. This half-day workshop engages a broader arts and machine learning community to collaboratively define these quantitative criteria, in a first attempt to collectively establish evaluation metrics for the area of creative AI.
 
 # Organizers 
  
