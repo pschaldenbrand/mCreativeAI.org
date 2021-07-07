@@ -1,0 +1,9 @@
+body {
+    font-family: Quicksand, sans-serif;
+}
+
+.container-fluid .h1,
+.container-fluid h1 {
+    background-color: #e9ecef5e;
+    padding: 0.5rem 0.25rem;
+}
