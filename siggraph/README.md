@@ -77,24 +77,24 @@ Participants are strongly recommended to watch the invited talks before the inte
 
 ### To be discussed with the panelists
 
-On The Subjectivity of Evaluation: Evaluating a creative work can be considered subjective. Can/should we account for this
+__On The Subjectivity of Evaluation:__ Evaluating a creative work can be considered subjective. Can/should we account for this
 subjectivity in our evaluation of artificially intelligent creative systems? Or should we strive for objective measures of creative
 success?
 
-On Context in Evaluation: Evaluating creative work is dependent on history. When evaluating a creative work, can we account for
+__On Context in Evaluation:__ Evaluating creative work is dependent on history. When evaluating a creative work, can we account for
 bodies of work that have come before it?
 
-On Explainability of Evaluation: How important is intelligibility of the evaluation of creative work? Can we have evaluation measures
+__On Explainability of Evaluation:__ How important is intelligibility of the evaluation of creative work? Can we have evaluation measures
 that do not clearly explain themselves?
 
-On Parts of Creativity for Evaluation: Novelty, surprisingness, value, etc. can be considered aspects of creativity. Can these aspects
+__On Parts of Creativity for Evaluation:__ Novelty, surprisingness, value, etc. can be considered aspects of creativity. Can these aspects
 be enumerated and defined, or are there mysterious qualities to creative work? Does a work need to have each aspect to be
 considered creative? If not, can the relationship between the presence of these aspects in a work be mapped out systematically?
 
-On Uses: What can we do with creative AI evaluation measures? Say we have an incredible AI creativity evaluation function today:
+__On Uses:__ What can we do with creative AI evaluation measures? Say we have an incredible AI creativity evaluation function today:
 what should we do with it?
 
-On Value: Do you find that research into evaluating creativity is valuable? In what ways do you see this research contributing to
+__On Value:__ Do you find that research into evaluating creativity is valuable? In what ways do you see this research contributing to
 culture or knowledge?
 
 
