@@ -6,32 +6,104 @@
 <em>sculpture television buddha (after Something Pacific) by Robert Twomey</em>
 </p>
 
-# SIGGRAPH - Measurable Creative Artificial Intelligence
+## Measurable Creative AI [SIGGRAPH 2021](https://s2021.siggraph.org/)
 
-[Upcoming Workshops](#upcoming-workshop) | [Past Workshops](#past-workshops) | [Organizers](#organizers)
+### August 2021 Time TBD
 
+[Speakers](#invited-speakers) |  [Questions](#questions) |  [Organizers](#organizers)
 
-# Upcoming Workshops
-
-## [SIGGRAPH](http://mcreativeai.org/SIGGRAPH) - Measurable Creative Artificial Intelligence
-
-#### August 2021
+SIGGRAPH 2021 is a virtual event and this workshop will be conducted online. Our invited speakers will provide prerecorded video talks and participate in live panel discussions.
 
 
 
-# Past Workshops
+# Abstract
 
-## [CVPR](http://cmmc-cvpr21.com/) - Bridging the Gap between Subjective and Computational Measurements of Machine Creativity
+The idea of applying AI to creative endeavors activates the games/vfx industries, artists, manufacturing, tech
+company labs, and academics, but much of what is published on the topic shows there is still a great degree of
+siloing within these various fields. SIGGRAPH is an ideal context for these diverse constituencies to develop
+shared perspectives on goals, outcomes, and metrics for this emerging field.
 
-#### June 20, 2021 at the Conference on Computer Vision and Pattern Recognition
+This half-day workshop for SIGGRAPH pulls from the industries above to give a wide view on what "creative AI"
+means in practice and what people's goals and aspirations are in the space. Framed with panel discussion from
+field experts, we will conduct a hands-on session around "measurable" goals to collaboratively define, apply, and
+iterate on metrics for evaluating creative AI. Partnering with the Art Gallery and Art Papers programs, we have
+unique subjects for this analysis drawn from the creative projects present at the conference.
 
-While the methods for producing machine creativity have significantly improved, the discussion on a scientific consensus on measuring the creative abilities of machines has only begun. As Artificial Intelligence becomes capable of solving more abstract and advanced problems (e.g., image synthesis, cross-modal translations), how do we measure the creative performance of a machine? In the world of visual art, subjective evaluations of creativity have been discussed at length. In the CVPR community, by comparison, evaluating a creative method has not been as systematized. Our goal in this workshop is to discuss current methods for measuring creativity both from experts in creative artificial intelligence as well as artists. We do not wish to narrow the gap between how humans evaluate creativity and how machines do, instead we wish to understand the differences and create links between the two such that our machine creativity methods improve.
+This workshop aims to bring people together to talk about common goals (the "Measurable" part of the workshop title) and objectives
+in this space as well as inform the direction that researchers take when
+developing creative AI tools, and potentially form the foundation for new collaborative relationships.
 
-## [ISEA](https://mcreativeai.github.io/) - Collaboratively Designing Metrics to Evaluate Creative Machines
 
-#### October 18, 2020 at the International Symposium on Electronic Art
 
-How do we make a creative machine? This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. For ISEA, participants will collectively find a definition of creativity specific to machines, addressing follow up questions: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants develop sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, we anticipate discovering ways to describe and interpret dimensions of algorithmic creativity. This half-day workshop engages a broader arts and machine learning community to collaboratively define these quantitative criteria, in a first attempt to collectively establish evaluation metrics for the area of creative AI.
+
+# Format
+
+This workshop will consist of a combination of pre-recorded presentations along with a one hour long live panelist discussion.
+
+
+
+# Invited Speakers
+
+[__Kenric Allado-McDowell__](https://kalladomcdowell.com/) - K Allado-McDowell is a writer, speaker, and musician. They are the author, with GPT-3, of the book Pharmako-AI, and are co-editor, with Ben Vickers, of The Atlas of Anomalous AI. They record and release music under the name Qenric. Allado-McDowell established the Artists + Machine Intelligence program at Google AI. They are a conference speaker, educator and consultant to think-tanks and institutions seeking to align their work with deeper traditions of human understanding.
+
+<!-- <img width="150" height="auto" src="speakers/david.png"> -->
+
+[__Stephanie Dinkins__](https://www.stephaniedinkins.com/) - Stephanie Dinkins is a transmedia artist who creates platforms for dialog about race, gender, aging, and our future histories. Dinkins’ art practice employs emerging technologies, documentary practices, and social collaboration toward equity and community sovereignty. She is particularly driven to work with communities of color to co-create more equitable, values grounded social and technological ecosystems. Dinkins is a professor at Stony Brook University where she holds the Kusama Endowed Professor in Art.
+
+[__Ethan Edwards__](http://ethanedwards.org) - Ethan Edwards is a researcher in Experiments in Art and Technology (E.A.T.) at Nokia Bell Labs, an initiative which fuses art with engineering to humanize technology. He works directly with scientists and artists to help facilitate collaboration and builds technology which crosses these domains. He is a creative technologist, having graduated with an MFA in Sound Art from Columbia University and has had work featured in museums, galleries, and performances around the world. His independent artwork explores traditional aesthetic themes in radically new media contexts. He has designed and led numerous large scale exhibits at Nokia Bell Labs.
+
+[__Eunsu Kang__](http://www.kangeunsu.com/) - Eunsu Kang is an artist, a researcher, and an educator who explores the intersection of art and machine learning, one of the core methods for building AI. She has been making interactive art installations and performances, teaching art-making using machine learning methods, and recently looking into the possibility of creative AI. She is also a co-founder of Women Art AI collective.
+
+[__Sang Leigh__](http://www.sangww.net/) - Sang Leigh is an Assistant Professor of the School of Industrial Design at Georgia Institute of Technology. His research focuses on augmenting humans and their creativity, through forming a symbiotic and tactile relationship between humans and computers. His Machine Poetics research group investigates novel user interfaces, interactive programming, and human-robot interaction for enhancing our creative processes and learning.
+
+
+<!--
+
+# Schedule (EDT)
+Participants are strongly recommended to watch the invited talks before the interactive session.
+
+| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Activity | Location |
+| ---- | ---- | ---- |
+| 11:00 - 11:20 | Introduction (20 min) | main room |
+| 11:20 - 11:50 | Discussion 1 - Elements of Creative AI (30 min) | breakout rooms |
+| 11:50 - 12:05 | Q & A (15 min) | main room |
+| 12:05 - 12:35 | Discussion 2 - Evaluating ML/Art Projects (30 min) | breakout rooms |
+| 12:35 - 12:50 | Q & A (15 min) | main room |
+| 12:50 - 13:30 | Guest Speaker Panel (40 min) | main room |
+| 13:30 - 14:00 | Discussion 3 - Revising Metrics, Evaluation 2 (30 min) | breakout rooms |
+| 14:10 - 14:30 | Presentation of Results and Wrap up | main room | -->
+
+# Questions
+
+### To be discussed with the panelists
+
+On The Subjectivity of Evaluation: Evaluating a creative work can be considered subjective. Can/should we account for this
+subjectivity in our evaluation of artificially intelligent creative systems? Or should we strive for objective measures of creative
+success?
+
+On Context in Evaluation: Evaluating creative work is dependent on history. When evaluating a creative work, can we account for
+bodies of work that have come before it?
+
+On Explainability of Evaluation: How important is intelligibility of the evaluation of creative work? Can we have evaluation measures
+that do not clearly explain themselves?
+
+On Parts of Creativity for Evaluation: Novelty, surprisingness, value, etc. can be considered aspects of creativity. Can these aspects
+be enumerated and defined, or are there mysterious qualities to creative work? Does a work need to have each aspect to be
+considered creative? If not, can the relationship between the presence of these aspects in a work be mapped out systematically?
+
+On Uses: What can we do with creative AI evaluation measures? Say we have an incredible AI creativity evaluation function today:
+what should we do with it?
+
+On Value: Do you find that research into evaluating creativity is valuable? In what ways do you see this research contributing to
+culture or knowledge?
+
+
+
+# Call for Participation
+
+TBD
+
+
 
 # Organizers
 
@@ -44,8 +116,6 @@ How do we make a creative machine? This workshop follows a series of studies con
 [__James McCann__](http://www.cs.cmu.edu/~jmccann/) is an Assistant Professor in the Carnegie Mellon Robotics Institute. He is interested in systems and interfaces that operate in real-time and build user intuition, including systems that enable and enhance creativity.
 
 [__Jean Oh__](www.cs.cmu.edu/~jeanoh/) is a faculty member at the Robotics Institute at Carnegie Mellon University. She is passionate about creating robots that can collaborate with humans in shared or remote environments, continuously improving themselves through learning, exploration, and interactions. Jean co-designed a new graduate-level course on Creative AI at CMU and was a co-organizer of the first workshop on Measuring Computational Creativity at ISEA’20.
-
-[__Devi Parikh__](https://www.cc.gatech.edu/~parikh/) is an Associate Professor in the School of Interactive Computing at Georgia Tech, and a Research Scientist at Facebook AI Research (FAIR). Her research interests are in computer vision, natural language processing, embodied AI, human-AI collaboration, and AI for creativity. Devi has co-organized workshops at CVPR since 2010. For instance, the series of [Visual Question Answering workshops](https://visualqa.org/workshop.html).
 
 [__Peter Schaldenbrand__ ](https://pschaldenbrand.github.io/) is a graduate student and technical staff member at Carnegie Mellon University.  His research interests include creating machine learning models that perform creative tasks and artificial intelligence in education.  Recently, he has been focusing on a robot artistic painting project.
 
