@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
 
 <p align="center">
 <img width="1200" height="400" max-width="100%" height="auto" src="https://raw.githubusercontent.com/pschaldenbrand/cmmc_cvpr21.github.io/master/three_ekphrases.jpg">
