@@ -75,7 +75,7 @@ Participants are strongly recommended to watch the invited talks before the inte
 
 # Panel Discussion
 
-August 11, 2021, 9-10am PDT with Eunsu Kang, Sang Leigh, Stephanie Dinkins, Kenric Allado-McDowell. Moderated by Robert Twomey (Chair).
+August 11, 2021, 9-10am PDT with Eunsu Kang, Sang Leigh, Stephanie Dinkins, Kenric Allado-McDowell. Moderated by Robert Twomey.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E2ceGQty5IY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
