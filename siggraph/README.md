@@ -8,13 +8,11 @@
 
 ## Measurable Creative AI [SIGGRAPH 2021](https://s2021.siggraph.org/)
 
-### August 2021 Time TBD
+### August 2021 - On Demand and Live Discussion August 11
 
 [Speakers](#invited-speakers) |  [Questions](#questions) |  [Organizers](#organizers)
 
-SIGGRAPH 2021 is a virtual event and this workshop will be conducted online. Our invited speakers will provide prerecorded video talks and participate in live panel discussions.
-
-
+SIGGRAPH 2021 is a virtual event and this workshop will be conducted online. Our invited speakers will provide prerecorded video talks and participate in live panel discussions. [Live Q&A on August 11, 20201, 9-10am PDT](https://s2021.siggraph.org/presentation/?id=fwkp_105&sess=sess243).
 
 # Abstract
 
@@ -33,29 +31,31 @@ This workshop aims to bring people together to talk about common goals (the "Mea
 in this space as well as inform the direction that researchers take when
 developing creative AI tools, and potentially form the foundation for new collaborative relationships.
 
-
-
-
 # Format
 
 This workshop will consist of a combination of pre-recorded presentations along with a one hour long live panelist discussion.
 
-
-
 # Invited Speakers
 
-[__Kenric Allado-McDowell__](https://kalladomcdowell.com/) - K Allado-McDowell is a writer, speaker, and musician. They are the author, with GPT-3, of the book Pharmako-AI, and are co-editor, with Ben Vickers, of The Atlas of Anomalous AI. They record and release music under the name Qenric. Allado-McDowell established the Artists + Machine Intelligence program at Google AI. They are a conference speaker, educator and consultant to think-tanks and institutions seeking to align their work with deeper traditions of human understanding.
-
-<!-- <img width="150" height="auto" src="speakers/david.png"> -->
-
-[__Stephanie Dinkins__](https://www.stephaniedinkins.com/) - Stephanie Dinkins is a transmedia artist who creates platforms for dialog about race, gender, aging, and our future histories. Dinkins’ art practice employs emerging technologies, documentary practices, and social collaboration toward equity and community sovereignty. She is particularly driven to work with communities of color to co-create more equitable, values grounded social and technological ecosystems. Dinkins is a professor at Stony Brook University where she holds the Kusama Endowed Professor in Art.
-
-[__Ethan Edwards__](http://ethanedwards.org) - Ethan Edwards is a researcher in Experiments in Art and Technology (E.A.T.) at Nokia Bell Labs, an initiative which fuses art with engineering to humanize technology. He works directly with scientists and artists to help facilitate collaboration and builds technology which crosses these domains. He is a creative technologist, having graduated with an MFA in Sound Art from Columbia University and has had work featured in museums, galleries, and performances around the world. His independent artwork explores traditional aesthetic themes in radically new media contexts. He has designed and led numerous large scale exhibits at Nokia Bell Labs.
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sjZY9Bn_Aws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [__Eunsu Kang__](http://www.kangeunsu.com/) - Eunsu Kang is an artist, a researcher, and an educator who explores the intersection of art and machine learning, one of the core methods for building AI. She has been making interactive art installations and performances, teaching art-making using machine learning methods, and recently looking into the possibility of creative AI. She is also a co-founder of Women Art AI collective.
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gCTcOaYx5Mk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [__Sang Leigh__](http://www.sangww.net/) - Sang Leigh is an Assistant Professor of the School of Industrial Design at Georgia Institute of Technology. His research focuses on augmenting humans and their creativity, through forming a symbiotic and tactile relationship between humans and computers. His Machine Poetics research group investigates novel user interfaces, interactive programming, and human-robot interaction for enhancing our creative processes and learning.
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=s2tDn0qCrH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[__Ethan Edwards__](http://ethanedwards.org) - Ethan Edwards is a researcher in Experiments in Art and Technology (E.A.T.) at Nokia Bell Labs, an initiative which fuses art with engineering to humanize technology. He works directly with scientists and artists to help facilitate collaboration and builds technology which crosses these domains. He is a creative technologist, having graduated with an MFA in Sound Art from Columbia University and has had work featured in museums, galleries, and performances around the world. His independent artwork explores traditional aesthetic themes in radically new media contexts. He has designed and led numerous large scale exhibits at Nokia Bell Labs.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MCweGc8rgro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[__Stephanie Dinkins__](https://www.stephaniedinkins.com/) - Stephanie Dinkins is a transmedia artist who creates platforms for dialog about race, gender, aging, and our future histories. Dinkins’ art practice employs emerging technologies, documentary practices, and social collaboration toward equity and community sovereignty. She is particularly driven to work with communities of color to co-create more equitable, values grounded social and technological ecosystems. Dinkins is a professor at Stony Brook University where she holds the Kusama Endowed Professor in Art.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HJ0jwduB00I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[__Kenric Allado-McDowell__](https://kalladomcdowell.com/) - K Allado-McDowell is a writer, speaker, and musician. They are the author, with GPT-3, of the book Pharmako-AI, and are co-editor, with Ben Vickers, of The Atlas of Anomalous AI. They record and release music under the name Qenric. Allado-McDowell established the Artists + Machine Intelligence program at Google AI. They are a conference speaker, educator and consultant to think-tanks and institutions seeking to align their work with deeper traditions of human understanding.
 
 <!--
 
@@ -74,6 +74,12 @@ Participants are strongly recommended to watch the invited talks before the inte
 | 14:10 - 14:30 | Presentation of Results and Wrap up | main room | -->
 
 # Questions
+
+# Panel Discussion
+
+August 11, 2021, 9-10am PDT with Eunsu Kang, Sang Leigh, Stephanie Dinkins, Kenric Allado-McDowell. Moderated by Robert Twomey (Chair).
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=E2ceGQty5IY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### To be discussed with the panelists
 
@@ -96,14 +102,6 @@ what should we do with it?
 
 __On Value:__ Do you find that research into evaluating creativity is valuable? In what ways do you see this research contributing to
 culture or knowledge?
-
-
-
-# Call for Participation
-
-TBD
-
-
 
 # Organizers
 
